@@ -6,7 +6,7 @@
 
 Gem::Specification.new do |s|
   s.name = "quickfix-jruby"
-  s.version = "1.6.0"
+  s.version = "1.5.2"
   s.platform = "java"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
@@ -36,7 +36,7 @@ Gem::Specification.new do |s|
     "lib/mina-core-2.0.9.jar",
     "lib/proxool-0.9.1.jar",
     "lib/quickfix.rb",
-    "lib/quickfixj-all-1.6.0.jar",
+    "lib/quickfixj-all-1.5.2.jar",
     "lib/slf4j-api-1.7.12.jar",
     "lib/slf4j-jdk14-1.7.12.jar",
     "quickfix-jruby.gemspec",
@@ -64,4 +64,3 @@ Gem::Specification.new do |s|
     s.add_dependency(%q<rake>, ["~> 10.1"])
   end
 end
-

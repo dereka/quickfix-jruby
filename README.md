@@ -16,7 +16,7 @@ my_order.set my_account
 
 quickfix-jruby imports the following jars included in the QuickFIX/J release
 
-* `quickfixj-all-1.6.0.jar`
+* `quickfixj-all-1.5.2.jar`
 * `dom4j-1.6.1.jar`
 * `jaxen-1.1.4.jar`
 * `jcl-over-slf4j-1.7.12.jar`
@@ -69,7 +69,7 @@ More Information
 
 * [Rubygems](https://rubygems.org/gems/quickfix-jruby)
 * [Issues](https://github.com/connamara/quickfix-jruby/issues)
-* [QuickFIX/J](http://www.quickfixj.org/) 
+* [QuickFIX/J](http://www.quickfixj.org/)
 * [Connamara Systems](http://connamara.com)
 
 Contributing
@@ -81,8 +81,8 @@ Please see the [contribution guidelines](https://github.com/connamara/quickfix-j
 Credits
 -------
 
-* [QuickFIX](http://www.quickfixengine.org/) 
-* [QuickFIX/J](http://www.quickfixj.org/) 
+* [QuickFIX](http://www.quickfixengine.org/)
+* [QuickFIX/J](http://www.quickfixj.org/)
 
 Contributers:
 
@@ -97,7 +97,7 @@ The names and logos for Connamara Systems are trademarks of Connamara Systems, l
 
 Licensing
 ---------
-quickfix-jruby is Copyright © 2013 Connamara Systems, llc. 
+quickfix-jruby is Copyright © 2013 Connamara Systems, llc.
 
 This software is available under the GPL and a commercial license.  Please see the [LICENSE](https://github.com/connamara/quickfix-jruby/blob/master/LICENSE.txt) file for the terms specified by the GPL license.  The commercial license offers more flexible licensing terms compared to the GPL, and includes support services.  [Contact us](mailto:info@connamara.com) for more information on the Connamara commercial license, what it enables, and how you can start commercial development with it.
 

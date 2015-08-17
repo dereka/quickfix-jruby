@@ -1,6 +1,6 @@
 require 'java'
 
-require 'quickfixj-all-1.6.0.jar'
+require 'quickfixj-all-1.5.2.jar'
 require 'dom4j-1.6.1.jar'
 require 'jaxen-1.1.4.jar'
 require 'jcl-over-slf4j-1.7.12.jar'
